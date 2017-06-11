@@ -3,7 +3,7 @@
 ## To Start
 
 * Ensure Node, NPM, and gulp are installed globally.
-* Run 'npm i'
+* Run `npm i`
 
 ## Build
 
